@@ -35,7 +35,7 @@ import LibName from "@bornfight/b-lib";
 
 ###### SCSS
 ``` SCSS
-@import "~b-lib/src/scss/flipswitch.scss";
+@import "~b-lib/src/scss/b-lib.scss";
 ```
 
 ##### HTML markup
