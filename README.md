@@ -16,6 +16,7 @@ Change:
 - package.json > "description": "...."
 - package.json > "main": "src/js/LibName.js"
 - LibName.js > replace with your lib name in places where it is used
+- add keywords to package.json
 
 ## 📦 Getting Started
 

@@ -1,4 +1,4 @@
-/*
+/**
  * b-lib-boilerplate v 1.0.0
  * Author: Bornfight
  * Repo: https://github.com/bornfight/b-lib-boilerplate

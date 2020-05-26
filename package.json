@@ -4,12 +4,16 @@
   "description": "Bornfight frontend boilerplate for lib development",
   "author": "Bornfight FE team",
   "email": "frontend@bornfight.com",
-  "private": true,
+  "private": false,
   "main": "src/js/LibName.js",
+  "license": "MIT",
   "engines": {
     "node": ">=12.16.1",
     "npm": ">=6.14.2"
   },
+  "keywords": [
+    "keyword-1"
+  ],
   "scripts": {
     "build": "gulp build",
     "dev": "gulp",
