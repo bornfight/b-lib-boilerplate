@@ -1,5 +1,5 @@
 {
-  "name": "@bornfight/c-lib-boilerplate",
+  "name": "@bornfight/b-lib-boilerplate",
   "version": "1.0.0",
   "description": "Bornfight frontend boilerplate for lib development",
   "author": "Bornfight FE team",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bornfight/c-lib-boilerplate/"
+    "url": "https://github.com/bornfight/b-lib-boilerplate/"
   },
   "browserslist": [
     "> 0.5%",
